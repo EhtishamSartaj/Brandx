@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brand=brandx
+brand=Brandx
 
 git clone https://github.com/EhtishamSartaj/brand.git
 cd $brand
